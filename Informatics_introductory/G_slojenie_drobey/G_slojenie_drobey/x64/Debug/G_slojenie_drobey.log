@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Александр\Documents\GitHub\Dla_raboti\С++\G_slojenie_drobey\G_slojenie_drobey\Source.cpp(26,39): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Александр\Documents\GitHub\Dla_raboti\С++\G_slojenie_drobey\G_slojenie_drobey\Source.cpp(60,27): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  G_slojenie_drobey.vcxproj -> C:\Users\Александр\Documents\GitHub\Dla_raboti\С++\G_slojenie_drobey\x64\Debug\G_slojenie_drobey.exe
