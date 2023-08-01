@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Александр\Documents\GitHub\CM\CM\CM\Source.cpp(140,37): warning C4101: x_o: неиспользованная локальная переменная
+  CM.vcxproj -> C:\Users\Александр\Documents\GitHub\CM\CM\x64\Debug\CM.exe
