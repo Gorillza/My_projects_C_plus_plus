@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Александр\Documents\GitHub\Yandex_Algorithms_3.0\nachalo\10_skuchnaya_lektsiya\10_skuchnaya_lektsiya\Source.cpp(16,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  10_skuchnaya_lektsiya.vcxproj -> C:\Users\Александр\Documents\GitHub\Yandex_Algorithms_3.0\nachalo\10_skuchnaya_lektsiya\x64\Debug\10_skuchnaya_lektsiya.exe
