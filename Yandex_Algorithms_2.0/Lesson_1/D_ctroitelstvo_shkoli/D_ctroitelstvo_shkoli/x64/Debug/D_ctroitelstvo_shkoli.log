@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Александр\Documents\GitHub\Yandex_Algorithms\Lesson_1\D_ctroitelstvo_shkoli\D_ctroitelstvo_shkoli\Source.cpp(62,28): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  D_ctroitelstvo_shkoli.vcxproj -> C:\Users\Александр\Documents\GitHub\Yandex_Algorithms\Lesson_1\D_ctroitelstvo_shkoli\x64\Debug\D_ctroitelstvo_shkoli.exe

@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\Александр\Documents\GitHub\Yandex_Algorithms\Lesson_1\E_treugolnik_and_tochka\E_treugolnik_and_tochka\Source.cpp(72,11): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Александр\Documents\GitHub\Yandex_Algorithms\Lesson_1\E_treugolnik_and_tochka\E_treugolnik_and_tochka\Source.cpp(77,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Александр\Documents\GitHub\Yandex_Algorithms\Lesson_1\E_treugolnik_and_tochka\E_treugolnik_and_tochka\Source.cpp(82,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Александр\Documents\GitHub\Yandex_Algorithms\Lesson_1\E_treugolnik_and_tochka\E_treugolnik_and_tochka\Source.cpp(95,21): warning C4244: return: преобразование "_Ty1" в "int", возможна потеря данных
+          with
+          [
+              _Ty1=const double
+          ]
+C:\Users\Александр\Documents\GitHub\Yandex_Algorithms\Lesson_1\E_treugolnik_and_tochka\E_treugolnik_and_tochka\Source.cpp(99): warning C4715: vect_lenght: значение возвращается не при всех путях выполнения
+  E_treugolnik_and_tochka.vcxproj -> C:\Users\Александр\Documents\GitHub\Yandex_Algorithms\Lesson_1\E_treugolnik_and_tochka\x64\Debug\E_treugolnik_and_tochka.exe
