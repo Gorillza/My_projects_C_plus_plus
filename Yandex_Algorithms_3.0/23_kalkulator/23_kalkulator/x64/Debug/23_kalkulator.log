@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\91519\Documents\yandex\23_kalkulator\23_kalkulator\main.cpp(8,23): warning C4244: аргумент: преобразование "double" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\91519\Documents\yandex\23_kalkulator\23_kalkulator\main.cpp(35,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  23_kalkulator.vcxproj -> C:\Users\91519\Documents\yandex\23_kalkulator\x64\Debug\23_kalkulator.exe
